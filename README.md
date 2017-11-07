@@ -12,7 +12,7 @@ CodeVS : [https://codevs.cn](https://codevs.cn)
 ### NOI题库命名规则
 > x.y.z.cpp
 
-其中 `x.y` 表示NOI题库第x.y节
+其中 `x.y` 表示NOI题库第x.y节  
 `z` 表示在该节中的题号
 
 ### CodeVS命名规则
@@ -31,7 +31,7 @@ CodeVS : [https://codevs.cn](https://codevs.cn)
 邮箱 : woshiluo@woshiluo.site  　
 博客 : https://blog.woshiluo.site  
 
-> P.S:部分题目的解梯思路在博客中会有
+> P.S:部分题目的解题思路在博客中会有
 
 # 关于我
 Woshiluo  
