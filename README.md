@@ -4,7 +4,7 @@
 欢迎 dalao 们前来吐槽  
 # 命名规则  
 ***
-本项目中有来来自三个题库的代码，分别时  
+本项目中有来来自三个题库的代码，分别时  
 NOI题库 : [http://noi.openjudge,cn](http://noi.openjudge.cn)  
 CodeVS : [https://codevs.cn](https://codevs.cn)  
 洛谷 : [https://www.luogu.com](https://www.luogu.com)  
@@ -27,9 +27,9 @@ CodeVS : [https://codevs.cn](https://codevs.cn)  
 
 # 关于解题思路
 ***
-如果你有幸看到了这个项目，想理解其中一篇或多篇代码出现了困难你可以通过以下几种方式联系我
-邮箱 : woshiluo@woshiluo.site  
-博客 : https://blog.woshiluo.site  
+如果你有幸看到了这个项目，想理解其中一篇或多篇代码出现了困难你可以通过以下几种方式联系我  
+邮箱 : woshiluo@woshiluo.site  　
+博客 : https://blog.woshiluo.site  
 
 > P.S:部分题目的阶梯思路在博客中会有
 
